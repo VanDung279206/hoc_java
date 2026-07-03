@@ -17,6 +17,8 @@ public class giaibtap_07 {
             } else {
                 System.out.println("tháng " + thang + " năm " + nam + " có 28 ngày");
             }
+        }else{
+            System.out.println("bạn nhập 1 tháng tào lao");
         }
     }
 }
