@@ -10,6 +10,8 @@ public class xulyngoaile {
         }catch (Exception ex){
             System.out.println("có lỗi r bu nó ơi...");
             ex.printStackTrace();
+        }finally{
+            System.out.println("có lỗi hay không đều phải làm cái này");
         }
 
         System.out.println("đoạn code phía sau");
