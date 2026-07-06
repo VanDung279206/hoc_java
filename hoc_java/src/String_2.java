@@ -2,6 +2,6 @@ public class String_2 {
     public static void main(String[] args) {
         StringBuilder chuoi = new StringBuilder();
 
-        String ch7 = ;
+        String ch7 = "toi di tim toi";
     }
 }
