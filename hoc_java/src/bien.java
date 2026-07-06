@@ -4,7 +4,7 @@ public class bien {
         int a;
         byte tuoi;
         float diem_toan;
-        // khai báo nhiều biến cùng lúc
+        // khai báo nhiều biến cùng lúc//
         int c, d, e, f;
 
         // khởi tạo biến

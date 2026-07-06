@@ -5,7 +5,7 @@ public class cacpheptoancoban {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        // phép cộng
+        // phép cộng//
         System.out.println("a + b = " + (a + b));
 
         //gán biến

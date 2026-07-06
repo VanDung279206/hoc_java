@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9baa9016-0185-46f4-bf0b-ef1d11835b8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hoc_java/src/bien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoc_java/src/ep_kieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoc_java/src/kieu_kytu.java" afterDir="false" />
+    <list default="true" id="9baa9016-0185-46f4-bf0b-ef1d11835b8c" name="Changes" comment="cap nhat;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/bai2_xuatdulieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/bai2_xuatdulieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/ghi_chu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ghi_chu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc_java/src/giaibtap_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/giaibtap_10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,11 @@
     &quot;accountId&quot;: &quot;7e9b256f-0bdb-484e-94fe-c31ce900a227&quot;
   }
 }</component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -48,27 +49,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.bai2_xuatdulieu.executor": "Run",
-    "Application.kieu_kytu.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Java/hoc_java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Mathtrongjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bai2_xuatdulieu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cacpheptoancoban.executor&quot;: &quot;Run&quot;,
+    &quot;Application.caulenhifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.charjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.continue_break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.date_time.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dowhile_true.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ep_kieu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forlongnhau.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibai10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaibtap_19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.giaipt2dungham.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ham.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kieu_kytu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ranDomjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.string_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switchcase_bienthe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.timhieu_scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toantu3ngoi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tínhCS_HCN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vidu_dateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vonglapfor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.xulyngoaile.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/hoc_java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="giaibtap_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="giaibtap_16" />
+      <module name="hoc_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.giaibtap_16" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,9 +139,203 @@
       <option name="presentableId" value="Default" />
       <updated>1782922499037</updated>
     </task>
+    <task id="LOCAL-00001" summary="ep kieu">
+      <option name="closed" value="true" />
+      <created>1782986679679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782986679679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kieu ky tu">
+      <option name="closed" value="true" />
+      <created>1782986725602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782986725602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tinh tổng giai thừa từ 1 đến 10">
+      <option name="closed" value="true" />
+      <created>1783186863214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783186863214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tìm các số hoàn hảo từ 1 đến 1000">
+      <option name="closed" value="true" />
+      <created>1783188600248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783188600248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nhập vào 1 số và cho biết số đó có phải số nguyên tố hay không">
+      <option name="closed" value="true" />
+      <created>1783190063480</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1783190063480</updated>
+    </task>
+    <task id="LOCAL-00006" summary="for lồng nhau">
+      <option name="closed" value="true" />
+      <created>1783190804265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783190804265</updated>
+    </task>
+    <task id="LOCAL-00007" summary="xử lý ngoại lệ khi muốn check khi co phát sinh lỗi">
+      <option name="closed" value="true" />
+      <created>1783191541768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783191541768</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xử lý ngoại lệ khi muốn check khi co phát sinh lỗi">
+      <option name="closed" value="true" />
+      <created>1783192116117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783192116117</updated>
+    </task>
+    <task id="LOCAL-00009" summary="học cách tajo hàm và sử dụng hàm">
+      <option name="closed" value="true" />
+      <created>1783255983742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783255983743</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1 hàm nhập vào a, b, c&#10;1 hàm tính và đưa ra kết quả">
+      <option name="closed" value="true" />
+      <created>1783257341467</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783257341467</updated>
+    </task>
+    <task id="LOCAL-00011" summary="nhập vào a, b tính và in ra kết quả với cách nhập + - * /. Dùng hàm">
+      <option name="closed" value="true" />
+      <created>1783258091792</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1783258091792</updated>
+    </task>
+    <task id="LOCAL-00012" summary="date và time trong java">
+      <option name="closed" value="true" />
+      <created>1783259262393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1783259262393</updated>
+    </task>
+    <task id="LOCAL-00013" summary="vis dụ về date và time trong java">
+      <option name="closed" value="true" />
+      <created>1783260121663</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1783260121663</updated>
+    </task>
+    <task id="LOCAL-00014" summary="thư viện toán học">
+      <option name="closed" value="true" />
+      <created>1783260616445</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1783260616445</updated>
+    </task>
+    <task id="LOCAL-00015" summary="thư viện random trong java">
+      <option name="closed" value="true" />
+      <created>1783260910742</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1783260910742</updated>
+    </task>
+    <task id="LOCAL-00016" summary="the char data type in java">
+      <option name="closed" value="true" />
+      <created>1783264822030</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1783264822030</updated>
+    </task>
+    <task id="LOCAL-00017" summary="string phần 1 trong java">
+      <option name="closed" value="true" />
+      <created>1783268808166</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1783268808166</updated>
+    </task>
+    <task id="LOCAL-00018" summary="string phần 2 trong java">
+      <option name="closed" value="true" />
+      <created>1783348303084</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1783348303084</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cap nhat">
+      <option name="closed" value="true" />
+      <created>1783349692771</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1783349692771</updated>
+    </task>
+    <task id="LOCAL-00020" summary="cap nhat;">
+      <option name="closed" value="true" />
+      <created>1783351227333</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1783351227333</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ep kieu" />
+    <MESSAGE value="kieu ky tu" />
+    <MESSAGE value="tinh tổng giai thừa từ 1 đến 10" />
+    <MESSAGE value="tìm các số hoàn hảo từ 1 đến 1000" />
+    <MESSAGE value="nhập vào 1 số và cho biết số đó có phải số nguyên tố hay không" />
+    <MESSAGE value="for lồng nhau" />
+    <MESSAGE value="xử lý ngoại lệ khi muốn check khi co phát sinh lỗi" />
+    <MESSAGE value="học cách tajo hàm và sử dụng hàm" />
+    <MESSAGE value="1 hàm nhập vào a, b, c&#10;1 hàm tính và đưa ra kết quả" />
+    <MESSAGE value="nhập vào a, b tính và in ra kết quả với cách nhập + - * /. Dùng hàm" />
+    <MESSAGE value="date và time trong java" />
+    <MESSAGE value="vis dụ về date và time trong java" />
+    <MESSAGE value="thư viện toán học" />
+    <MESSAGE value="thư viện random trong java" />
+    <MESSAGE value="the char data type in java" />
+    <MESSAGE value="string phần 1 trong java" />
+    <MESSAGE value="string phần 2 trong java" />
+    <MESSAGE value="cap nhat" />
+    <MESSAGE value="cap nhat;" />
+    <option name="LAST_COMMIT_MESSAGE" value="cap nhat;" />
   </component>
 </project>

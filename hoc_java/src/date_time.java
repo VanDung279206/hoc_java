@@ -8,7 +8,7 @@ public class date_time {
 
         //lấy ngày tháng năm (get)
         int ngay = cal.get(Calendar.DAY_OF_MONTH);
-        int thang = cal.get(Calendar.MONTH);
+        int thang = cal.get(Calendar.MONTH);//
         int nam = cal.get(Calendar.YEAR);
         System.out.println(ngay);
         System.out.println(thang+1);

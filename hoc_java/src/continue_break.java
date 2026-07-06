@@ -7,7 +7,7 @@ public class continue_break {
                 continue;
             tong += i;
         }
-        System.out.println("tổng = "+tong);
+        System.out.println("tổng = "+tong);//
 
         //break
         int n = 0;

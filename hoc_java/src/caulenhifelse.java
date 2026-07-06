@@ -4,7 +4,7 @@ public class caulenhifelse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("mời nhập vào dtb: ");
-        double dtb = sc.nextDouble();
+        double dtb = sc.nextDouble();//
 
         // kiểm tra điều kiện
         if (dtb > 8 && dtb < 10) {

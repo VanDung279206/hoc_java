@@ -12,7 +12,7 @@ public class ep_kieu {
         System.out.println(d); //=-128 -> sai
 
         int e = 15;
-        byte f = (byte) e;
+        byte f = (byte) e;//
         System.out.println(e);
         System.out.println(f);
     }

@@ -6,7 +6,7 @@ public class charjava {
         char ch = 'a';
         char ch2 = 66;
         System.out.println(ch2);
-        char ch3;   //khai báo
+        char ch3;   //khai báo//
         Scanner sc = new Scanner(System.in);
         System.out.println("mời nhập vào 1 ký tự: ");
         String s = sc.nextLine();

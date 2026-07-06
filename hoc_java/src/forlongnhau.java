@@ -5,5 +5,5 @@ public class forlongnhau {
                 System.out.print(i +""+j+"\t");
             }
         }
-    }
+    }//
 }
