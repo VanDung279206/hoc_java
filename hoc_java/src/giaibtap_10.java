@@ -5,7 +5,9 @@ public class giaibtap_10 {
         Scanner sc = new Scanner(System.in);
         System.out.print("nhập vào điểm trung bình: ");
         double dtb = sc.nextDouble();
-        String traloi = (dtb >= 8) ? "giỏi" : (dtb >= 6.5) ? "khá" : (dtb >= 5) ? "trung bình" : "yếu";
+        String traloi = (dtb >= 8) ? "giỏi" :
+                (dtb >= 6.5) ? "khá" :
+                    (dtb >= 5) ? "trung bình" : "yếu";
         System.out.println("điểm " + dtb + " là điểm " + traloi);
     }
 }
