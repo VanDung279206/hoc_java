@@ -1,3 +1,5 @@
+package commit;
+
 import java.util.Scanner;
 
 public class giaibtap_11 {
