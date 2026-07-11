@@ -1,3 +1,5 @@
+package commit;
+
 public class bien {
     public static void main(String[] args) {
         //khai báo biến
