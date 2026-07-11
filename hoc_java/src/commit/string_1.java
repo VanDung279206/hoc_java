@@ -1,3 +1,5 @@
+package commit;
+
 public class string_1 {
     public static void main(String[] args) {
         String s = "Hồi đó tôi chê mồm e rộng" +
