@@ -1,3 +1,5 @@
+package commit;
+
 public class continue_break {
     static void main(String[] args) {
         //tính tổng từ 1-5 nhưng bỏ qua số 3
