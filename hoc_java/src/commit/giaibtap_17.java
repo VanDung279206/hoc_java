@@ -1,3 +1,5 @@
+package commit;
+
 public class giaibtap_17 {
     static void main(String[] args) {
         //ktra xem 1 số có phải là số hoàn hảo hay không
