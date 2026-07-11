@@ -1,3 +1,5 @@
+package commit;
+
 import java.util.Scanner;
 
 public class tínhCS_HCN {
