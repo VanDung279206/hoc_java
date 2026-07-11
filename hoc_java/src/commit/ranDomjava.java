@@ -1,3 +1,5 @@
+package commit;
+
 import java.util.Random;
 
 public class ranDomjava {
