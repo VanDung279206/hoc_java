@@ -1,3 +1,5 @@
+package commit;
+
 public class ghi_chu {
     public static void main() {
         //đây là ghi chú 1 dòng
