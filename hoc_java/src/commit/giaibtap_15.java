@@ -1,3 +1,5 @@
+package commit;
+
 public class giaibtap_15 {
     static void main(String[] args) {
         System.out.println("các số chia hết cho 3 từ 10-50: ");
