@@ -1,4 +1,4 @@
-package ga_lai_lap_trinh;
+package commit;
 
 public class day_1 {
     public static void main() {
