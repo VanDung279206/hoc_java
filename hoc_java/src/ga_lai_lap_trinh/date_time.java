@@ -1,4 +1,4 @@
-package commit;
+package ga_lai_lap_trinh;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
