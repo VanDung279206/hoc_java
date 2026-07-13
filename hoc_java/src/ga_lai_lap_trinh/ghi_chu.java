@@ -1,4 +1,4 @@
-package commit;
+package ga_lai_lap_trinh;
 
 public class ghi_chu {
     public static void main() {
