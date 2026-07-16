@@ -1,4 +1,4 @@
-package ga_lai_lap_trinh;
+package hocTrenLop;
 
 public class kieu_kytu {
     public static void main(String[] args) {
