@@ -1,4 +1,4 @@
-package ga_lai_lap_trinh;
+package hocTrenLop;
 
 public class ghi_chu {
     public static void main() {
