@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh;
 
 public class continue_break {
     static void main(String[] args) {
