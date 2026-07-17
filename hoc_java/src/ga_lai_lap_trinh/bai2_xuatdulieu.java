@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh;
 
 public class bai2_xuatdulieu {
     public static void main(String[] args) {
