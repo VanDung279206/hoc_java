@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh;
 
 public class giaibtap_15 {
     static void main(String[] args) {
