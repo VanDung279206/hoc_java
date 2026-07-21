@@ -6,5 +6,6 @@ public class bai2_xuatdulieu {
         System.out.print("Sông cầu nước chảy lơ thơ\n Có đôi trai gai đang hơ quần đùi");
         System.out.println("\n Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam\n \t Độc Lập - Tự Do - Hạnh Phúc");
         System.out.println("Có người nói rằng: \" Cho đi là còn mãi \"");//
+        System.out.println("Nguyễn Văn Dũng 27 09 2006");
     }
 }
