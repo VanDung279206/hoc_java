@@ -7,5 +7,6 @@ public class bai2_xuatdulieu {
         System.out.println("\n Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam\n \t Độc Lập - Tự Do - Hạnh Phúc");
         System.out.println("Có người nói rằng: \" Cho đi là còn mãi \"");//
         System.out.println("Nguyễn Văn Dũng 27 09 2006");
+        System.out.println("DHKHMT02");
     }
 }
