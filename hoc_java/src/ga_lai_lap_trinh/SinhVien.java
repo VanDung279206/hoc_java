@@ -1,0 +1,20 @@
+package ga_lai_lap_trinh;
+
+public class SinhVien {
+    //thuoc tinh (giong voi cac bien)
+    private String hoTen;
+    private double diem;
+
+    // constructor mac dinh
+    //khoi tao cac gia tri mac dinh ngay khi doi tuong vua duoc tao ra
+    public SinhVien(){
+        hoTen = "Nguyen Van Dung";
+        diem = 10;
+    }
+
+    // method - phuong thuc (cac ham)
+    // method khong co kieu tra ve
+    public void hienThiThongTin() {
+        System.out.println(hoTen + " : " + diem);
+    }
+}
