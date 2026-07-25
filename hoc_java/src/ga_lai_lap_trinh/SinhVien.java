@@ -7,9 +7,15 @@ public class SinhVien {
 
     // constructor mac dinh
     //khoi tao cac gia tri mac dinh ngay khi doi tuong vua duoc tao ra
-    public SinhVien(){
+    public SinhVien() {
         hoTen = "Nguyen Van Dung";
         diem = 10;
+    }
+
+    //constructor co doi so
+    public SinhVien(String hoTen, double diem) {
+        this.hoTen = hoTen;
+        this.diem = diem;
     }
 
     // method - phuong thuc (cac ham)
