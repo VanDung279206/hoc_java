@@ -6,9 +6,13 @@ public class oop_1 {
         SinhVien sv2 = new SinhVien();
         sv1.hienThiThongTin();
         sv2.hienThiThongTin();
-        SinhVien sv3 = new SinhVien("Teo", 1);
+        SinhVien sv3 = new SinhVien();
         sv3.hienThiThongTin();
         System.out.println(sv3.getDiem());
         System.out.println(sv3.getHoTen());
+        // thay đổi tên sv3
+        sv3.setHoTen("Nguyễn Văn Dũng");
+        sv3.setDiem(10);
+        sv3.hienThiThongTin();
     }
 }
