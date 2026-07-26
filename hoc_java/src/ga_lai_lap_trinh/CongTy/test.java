@@ -16,5 +16,8 @@ public class test {
         double luongDC1 = ca1.tinhLuong();
         System.out.println("lương nhân viên đi ca 1 là: " + luongDC1);
 
+        NhanVienDiCa ca2 = new NhanVienDiCa("Đi Ca 2", "Hà Nội", 111111111, 1);
+        double luongDC2 = ca2.tinhLuong();
+        System.out.println("lương nhân viên đi ca 2 là: " + luongDC2);
     }
 }
