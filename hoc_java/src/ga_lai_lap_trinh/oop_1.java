@@ -8,5 +8,7 @@ public class oop_1 {
         sv2.hienThiThongTin();
         SinhVien sv3 = new SinhVien("Teo", 1);
         sv3.hienThiThongTin();
+        System.out.println(sv3.getDiem());
+        System.out.println(sv3.getHoTen());
     }
 }
