@@ -24,6 +24,11 @@ public class SinhVien {
         System.out.println(hoTen + " : " + diem);
     }
 
+    //phương thức có kiểu trả về
+    public double tinhDTB(double diemToan, double diemVan) {
+        return (diemToan + diemVan) / 2;
+    }
+
     //get, set
 
     public String getHoTen() {
@@ -40,5 +45,15 @@ public class SinhVien {
 
     public void setDiem(double diem) {
         this.diem = diem;
+    }
+
+    //toString
+
+    @Override
+    public String toString() {
+        return "SinhVien{" +
+                "hoTen='" + hoTen + '\'' +
+                ", diem=" + diem +
+                '}';
     }
 }
