@@ -29,6 +29,16 @@ public class SinhVien {
         return (diemToan + diemVan) / 2;
     }
 
+    //pt2
+    public double tinhDTB(double diemToan, double diemVan, double diemAnh) {
+        return (diemToan + diemAnh + diemVan) / 3;
+    }
+
+    //pt3
+    public double tinhDTB(String abc, double diemToan, double diemVan) {
+        return diemToan + diemVan;
+    }
+
     //get, set
 
     public String getHoTen() {
@@ -69,5 +79,14 @@ public class SinhVien {
         } else {
             System.out.println("điểm không hợp lệ");
         }
+    }
+
+    //parametter list
+    public double tongDiem(double ... arr){
+        double tong = 0;
+        for(double x : arr){
+            tong += x;
+        }
+        return tong;
     }
 }
