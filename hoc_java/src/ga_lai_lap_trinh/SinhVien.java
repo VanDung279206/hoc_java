@@ -56,4 +56,18 @@ public class SinhVien {
                 ", diem=" + diem +
                 '}';
     }
+
+    //support method
+    private boolean checkDiem() {
+        return this.diem >= 24;
+    }
+
+    //service method có thể gọi từ chương trình chính
+    public void checkHopLeDiem() {
+        if (checkDiem()) {
+            System.out.println("diem hop le");
+        } else {
+            System.out.println("điểm không hợp lệ");
+        }
+    }
 }
