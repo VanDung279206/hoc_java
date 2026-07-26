@@ -17,5 +17,8 @@ public class oop_1 {
         double dtbsv3 = sv3.tinhDTB(9, 10);
         System.out.println(dtbsv3);
         System.out.println(sv3);
+
+        //support method và service method
+        sv3.checkHopLeDiem();
     }
 }
