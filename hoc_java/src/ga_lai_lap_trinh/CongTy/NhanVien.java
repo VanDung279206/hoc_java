@@ -1,6 +1,6 @@
 package ga_lai_lap_trinh.CongTy;
 
-public class NhanVien {
+public abstract class NhanVien {
     protected String ten;
     protected String que;
     protected int cccd;
@@ -13,7 +13,5 @@ public class NhanVien {
         this.cccd = cccd;
     }
 
-    public double tinhLuong(){
-        return luongCoBan;
-    }
+    public abstract double tinhLuong();
 }
