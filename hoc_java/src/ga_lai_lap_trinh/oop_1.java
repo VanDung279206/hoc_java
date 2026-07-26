@@ -14,5 +14,8 @@ public class oop_1 {
         sv3.setHoTen("Nguyễn Văn Dũng");
         sv3.setDiem(10);
         sv3.hienThiThongTin();
+        double dtbsv3 = sv3.tinhDTB(9, 10);
+        System.out.println(dtbsv3);
+        System.out.println(sv3);
     }
 }
