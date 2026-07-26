@@ -2,9 +2,9 @@ package ga_lai_lap_trinh.CongTy;
 
 public class test {
     public static void main(String[] args) {
-        NhanVien nv1 = new NhanVien("Nhân Viên 1", "Bắc Giang", 111111111);
+        /*NhanVien nv1 = new NhanVien("Nhân Viên 1", "Bắc Giang", 111111111);
         double luongNV1 = nv1.tinhLuong();
-        System.out.println("lương nhân viên 1 là: " + luongNV1);
+        System.out.println("lương nhân viên 1 là: " + luongNV1);*/
 
         //tạo đối tượng là nhân viên hành chính
         NhanVienHanhChinh hc1 = new NhanVienHanhChinh("Hành Chính 1", "Lạng Sơn", 222222222);
