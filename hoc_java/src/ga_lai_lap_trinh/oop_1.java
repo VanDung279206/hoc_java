@@ -20,5 +20,10 @@ public class oop_1 {
 
         //support method và service method
         sv3.checkHopLeDiem();
+
+        // overloading
+        System.out.println(sv3.tinhDTB(5, 6, 7));
+        System.out.println(sv3.tinhDTB(5, 6));
+        System.out.println(sv3.tongDiem(1, 2, 3, 4, 5, 6, 7, 8, 9));
     }
 }
