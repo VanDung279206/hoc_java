@@ -1,4 +1,4 @@
-import ga_lai_lap_trinh.student;
+import hocTrenLop.student;
 
 public void main() {
         student sv = new student();
