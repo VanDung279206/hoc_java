@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh.TestInterface;
 
 public class Mathtrongjava {
     public static void main(String[] args) {
