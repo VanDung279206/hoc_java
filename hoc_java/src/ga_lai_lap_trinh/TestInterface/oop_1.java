@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh.TestInterface;
 
 public class oop_1 {
     public static void main(String[] args) {
