@@ -1,7 +1,6 @@
-package ga_lai_lap_trinh;
+package hocTrenLop;
 
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class sortArray {
