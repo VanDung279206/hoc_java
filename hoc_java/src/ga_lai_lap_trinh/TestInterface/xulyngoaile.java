@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh.TestInterface;
 
 public class xulyngoaile {
     static void main(String[] args) {
