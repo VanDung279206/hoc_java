@@ -1,6 +1,7 @@
 package ga_lai_lap_trinh.OOPSXClass;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class TestMain {
     public static void main(String[] args) {
@@ -18,6 +19,13 @@ public class TestMain {
         ds.add(sp3);
 
         //xem ds sản phẩm trong list
+        for(SanPham x : ds){
+            System.out.println(x);
+        }
+
+        //gọi phương thức sắp xếp
+        Collections.sort(ds);
+        System.out.println("danh sách sau sắp sếp là: ");
         for(SanPham x : ds){
             System.out.println(x);
         }
