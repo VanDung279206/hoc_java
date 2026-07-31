@@ -35,6 +35,6 @@ public class SinhVien {
 
     @Override
     public String toString() {
-        return ma + "\t" + ten + "\t" + this.loai;
+        return ma + "\t" + ten + "\t" + this.loai.des();
     }
 }

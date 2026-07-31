@@ -1,9 +1,18 @@
 package ga_lai_lap_trinh.Enum;
 
 public enum XepLoai {
-    gioi,   //0
-    kha,    //1
-    tb,     //2
-    yeu,    //3
-    duoihoc //4
+    gioi("Xếp Loại giỏi"),   //0
+    kha("Xếp Loại khá"),    //1
+    tb("Xếp Loại trung bình"),     //2
+    yeu("Xếp Loại yếu"),    //3
+    duoihoc("đuổi học"); //4
+    private String msg;
+
+    XepLoai(String msg) {
+        this.msg = msg;
+    }
+
+    public String des() {
+        return this.msg;
+    }
 }
