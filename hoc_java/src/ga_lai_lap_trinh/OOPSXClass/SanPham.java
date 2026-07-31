@@ -52,12 +52,19 @@ public class SanPham implements Comparable<SanPham>{
     }
 
     //phương thức
-    @Override
+//sắp xếp theo giá - tăng dần
+    /*@Override
     public int compareTo(SanPham o) {
         if(this.gia < o.gia)
             return -1;
         if(this.gia > o.gia)
             return 1;
         return 0;
+    }*/
+
+    //sắp xếp theo tên
+    @Override
+    public  int compareTo(SanPham o){
+        return this.ten.compareToIgnoreCase(o.ten);
     }
 }
