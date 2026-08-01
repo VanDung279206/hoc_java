@@ -1,4 +1,4 @@
-package ga_lai_lap_trinh.TestInterface;
+package ga_lai_lap_trinh;
 
 import java.util.Arrays;
 import java.util.Scanner;
