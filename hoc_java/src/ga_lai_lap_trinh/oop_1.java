@@ -1,5 +1,7 @@
 package ga_lai_lap_trinh;
 
+import hocTrenLop.SinhVien;
+
 public class oop_1 {
     public static void main(String[] args) {
         SinhVien sv1 = new SinhVien();
