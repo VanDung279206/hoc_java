@@ -1,4 +1,4 @@
-package ga_lai_lap_trinh;
+package hocTrenLop;
 
 public class SinhVien {
     //thuoc tinh (giong voi cac bien)
