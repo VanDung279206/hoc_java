@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh;
 
 public class string_1 {
     public static void main(String[] args) {
