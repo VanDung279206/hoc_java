@@ -1,4 +1,4 @@
-package hocTrenLop;
+package ga_lai_lap_trinh;
 
 import java.util.Arrays;
 import java.util.Scanner;
