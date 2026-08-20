@@ -4,54 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9baa9016-0185-46f4-bf0b-ef1d11835b8c" name="Changes" comment="cap nhat;">
+    <list default="true" id="9baa9016-0185-46f4-bf0b-ef1d11835b8c" name="Changes" comment="cập nhật">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/Mathtrongjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/Mathtrongjava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/String_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/String_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/bai2_xuatdulieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/bai2_xuatdulieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/bien.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/bien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/cacpheptoancoban.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/cacpheptoancoban.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/caulenhifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/caulenhifelse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/charjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/charjava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/continue_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/continue_break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/date_time.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/date_time.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/day_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/day_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/dowhile_true.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/dowhile_true.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/ep_kieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/ep_kieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/forlongnhau.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/forlongnhau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/ghi_chu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/ghi_chu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibai10.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibai10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaibtap_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaibtap_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/giaipt2dungham.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/giaipt2dungham.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/ham.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/ham.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/kieu_kytu.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/kieu_kytu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/ranDomjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/ranDomjava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/string_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/string_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/switch_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/switch_case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/switchcase_bienthe.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/switchcase_bienthe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/timhieu_scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/timhieu_scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/toantu3ngoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/toantu3ngoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/tínhCS_HCN.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/tínhCS_HCN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/vidu_dateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/vidu_dateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/vonglapfor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/vonglapfor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/while_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/while_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc_java/src/commit/xulyngoaile.java" beforeDir="false" afterPath="$PROJECT_DIR$/hoc_java/src/ga_lai_lap_trinh/xulyngoaile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hoc_java/bai2_xuatdulieu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hoc_java/day_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hoc_java/ghi_chu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hoc_java/kieu_kytu.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -96,11 +56,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Mathtrongjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestDiem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array.executor&quot;: &quot;Run&quot;,
     &quot;Application.bai2_xuatdulieu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.btap_hashMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.cacpheptoancoban.executor&quot;: &quot;Run&quot;,
     &quot;Application.caulenhifelse.executor&quot;: &quot;Run&quot;,
     &quot;Application.charjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.collecttion.executor&quot;: &quot;Run&quot;,
     &quot;Application.continue_break.executor&quot;: &quot;Run&quot;,
     &quot;Application.date_time.executor&quot;: &quot;Run&quot;,
     &quot;Application.dowhile_true.executor&quot;: &quot;Run&quot;,
@@ -125,14 +92,19 @@
     &quot;Application.giaibtap_19.executor&quot;: &quot;Run&quot;,
     &quot;Application.giaipt2dungham.executor&quot;: &quot;Run&quot;,
     &quot;Application.ham.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hasMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.kieu_kytu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.ranDomjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.string_1.executor&quot;: &quot;Run&quot;,
     &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
     &quot;Application.switchcase_bienthe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
     &quot;Application.timhieu_scanner.executor&quot;: &quot;Run&quot;,
     &quot;Application.toantu3ngoi.executor&quot;: &quot;Run&quot;,
     &quot;Application.tínhCS_HCN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.viDu_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.vidu_dateTime.executor&quot;: &quot;Run&quot;,
     &quot;Application.vonglapfor.executor&quot;: &quot;Run&quot;,
     &quot;Application.while_loop.executor&quot;: &quot;Run&quot;,
@@ -142,7 +114,6 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -151,9 +122,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/hoc_java/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java/hoc_java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\hoc_java\src\ga_lai_lap_trinh" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="giaibtap_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ga_lai_lap_trinh.giaibtap_16" />
@@ -184,399 +161,399 @@
       <option name="presentableId" value="Default" />
       <updated>1782922499037</updated>
     </task>
-    <task id="LOCAL-00034" summary="cap nhat;">
+    <task id="LOCAL-00278" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783361770004</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+      <created>1785601646325</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
       <option name="project" value="LOCAL" />
-      <updated>1783361770004</updated>
+      <updated>1785601646325</updated>
     </task>
-    <task id="LOCAL-00035" summary="cap nhat">
+    <task id="LOCAL-00279" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783361789840</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+      <created>1785601649580</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
       <option name="project" value="LOCAL" />
-      <updated>1783361789840</updated>
+      <updated>1785601649580</updated>
     </task>
-    <task id="LOCAL-00036" summary="cap nhat;">
+    <task id="LOCAL-00280" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783361805208</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+      <created>1785601652697</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
       <option name="project" value="LOCAL" />
-      <updated>1783361805208</updated>
+      <updated>1785601652697</updated>
     </task>
-    <task id="LOCAL-00037" summary="cap nhat;">
+    <task id="LOCAL-00281" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785332419</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+      <created>1785601657469</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
       <option name="project" value="LOCAL" />
-      <updated>1783785332419</updated>
+      <updated>1785601657469</updated>
     </task>
-    <task id="LOCAL-00038" summary="cap nhat;">
+    <task id="LOCAL-00282" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785335984</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+      <created>1785601661997</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
       <option name="project" value="LOCAL" />
-      <updated>1783785335984</updated>
+      <updated>1785601661997</updated>
     </task>
-    <task id="LOCAL-00039" summary="cap nhat;">
+    <task id="LOCAL-00283" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785339447</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+      <created>1785601665075</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
       <option name="project" value="LOCAL" />
-      <updated>1783785339447</updated>
+      <updated>1785601665075</updated>
     </task>
-    <task id="LOCAL-00040" summary="cap nhat;">
+    <task id="LOCAL-00284" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785342648</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+      <created>1785601668489</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
       <option name="project" value="LOCAL" />
-      <updated>1783785342648</updated>
+      <updated>1785601668489</updated>
     </task>
-    <task id="LOCAL-00041" summary="cap nhat;">
+    <task id="LOCAL-00285" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785345881</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+      <created>1785601671735</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
       <option name="project" value="LOCAL" />
-      <updated>1783785345881</updated>
+      <updated>1785601671735</updated>
     </task>
-    <task id="LOCAL-00042" summary="cap nhat;">
+    <task id="LOCAL-00286" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785348939</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+      <created>1785601675015</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
       <option name="project" value="LOCAL" />
-      <updated>1783785348939</updated>
+      <updated>1785601675015</updated>
     </task>
-    <task id="LOCAL-00043" summary="cap nhat;">
+    <task id="LOCAL-00287" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785352140</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+      <created>1785601678227</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
       <option name="project" value="LOCAL" />
-      <updated>1783785352140</updated>
+      <updated>1785601678227</updated>
     </task>
-    <task id="LOCAL-00044" summary="cap nhat;">
+    <task id="LOCAL-00288" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785355386</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+      <created>1785601681748</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
       <option name="project" value="LOCAL" />
-      <updated>1783785355386</updated>
+      <updated>1785601681748</updated>
     </task>
-    <task id="LOCAL-00045" summary="cap nhat;">
+    <task id="LOCAL-00289" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785358813</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+      <created>1785601685218</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
       <option name="project" value="LOCAL" />
-      <updated>1783785358813</updated>
+      <updated>1785601685218</updated>
     </task>
-    <task id="LOCAL-00046" summary="cap nhat;">
+    <task id="LOCAL-00290" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785362469</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+      <created>1785601688770</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
       <option name="project" value="LOCAL" />
-      <updated>1783785362469</updated>
+      <updated>1785601688770</updated>
     </task>
-    <task id="LOCAL-00047" summary="cap nhat;">
+    <task id="LOCAL-00291" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785365532</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+      <created>1785601692019</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
       <option name="project" value="LOCAL" />
-      <updated>1783785365532</updated>
+      <updated>1785601692019</updated>
     </task>
-    <task id="LOCAL-00048" summary="cap nhat;">
+    <task id="LOCAL-00292" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785368655</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+      <created>1786983991111</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
       <option name="project" value="LOCAL" />
-      <updated>1783785368655</updated>
+      <updated>1786983991111</updated>
     </task>
-    <task id="LOCAL-00049" summary="cap nhat;">
+    <task id="LOCAL-00293" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785371672</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+      <created>1786983996667</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
       <option name="project" value="LOCAL" />
-      <updated>1783785371672</updated>
+      <updated>1786983996667</updated>
     </task>
-    <task id="LOCAL-00050" summary="cap nhat;">
+    <task id="LOCAL-00294" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785374505</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+      <created>1786983999793</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
       <option name="project" value="LOCAL" />
-      <updated>1783785374505</updated>
+      <updated>1786983999794</updated>
     </task>
-    <task id="LOCAL-00051" summary="cap nhat;">
+    <task id="LOCAL-00295" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785377604</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1786984003479</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
       <option name="project" value="LOCAL" />
-      <updated>1783785377604</updated>
+      <updated>1786984003479</updated>
     </task>
-    <task id="LOCAL-00052" summary="cap nhat;">
+    <task id="LOCAL-00296" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785380698</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1786984006373</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
       <option name="project" value="LOCAL" />
-      <updated>1783785380698</updated>
+      <updated>1786984006373</updated>
     </task>
-    <task id="LOCAL-00053" summary="cap nhat;">
+    <task id="LOCAL-00297" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785383644</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+      <created>1786984009165</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
       <option name="project" value="LOCAL" />
-      <updated>1783785383644</updated>
+      <updated>1786984009165</updated>
     </task>
-    <task id="LOCAL-00054" summary="cap nhat;">
+    <task id="LOCAL-00298" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785386787</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+      <created>1786984012059</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
       <option name="project" value="LOCAL" />
-      <updated>1783785386787</updated>
+      <updated>1786984012060</updated>
     </task>
-    <task id="LOCAL-00055" summary="cap nhat;">
+    <task id="LOCAL-00299" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785389739</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+      <created>1786984016235</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
       <option name="project" value="LOCAL" />
-      <updated>1783785389739</updated>
+      <updated>1786984016235</updated>
     </task>
-    <task id="LOCAL-00056" summary="cap nhat;">
+    <task id="LOCAL-00300" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785392821</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+      <created>1786984020090</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
       <option name="project" value="LOCAL" />
-      <updated>1783785392822</updated>
+      <updated>1786984020090</updated>
     </task>
-    <task id="LOCAL-00057" summary="cap nhat;">
+    <task id="LOCAL-00301" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785395769</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+      <created>1786984023493</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
       <option name="project" value="LOCAL" />
-      <updated>1783785395769</updated>
+      <updated>1786984023493</updated>
     </task>
-    <task id="LOCAL-00058" summary="cap nhat;">
+    <task id="LOCAL-00302" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785398956</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+      <created>1786984026529</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
       <option name="project" value="LOCAL" />
-      <updated>1783785398956</updated>
+      <updated>1786984026529</updated>
     </task>
-    <task id="LOCAL-00059" summary="cap nhat;">
+    <task id="LOCAL-00303" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785402037</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+      <created>1786984029709</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
       <option name="project" value="LOCAL" />
-      <updated>1783785402037</updated>
+      <updated>1786984029709</updated>
     </task>
-    <task id="LOCAL-00060" summary="cap nhat;">
+    <task id="LOCAL-00304" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785405615</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+      <created>1786984032717</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
       <option name="project" value="LOCAL" />
-      <updated>1783785405615</updated>
+      <updated>1786984032717</updated>
     </task>
-    <task id="LOCAL-00061" summary="cap nhat;">
+    <task id="LOCAL-00305" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785409330</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+      <created>1786984035794</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
       <option name="project" value="LOCAL" />
-      <updated>1783785409330</updated>
+      <updated>1786984035794</updated>
     </task>
-    <task id="LOCAL-00062" summary="cap nhat;">
+    <task id="LOCAL-00306" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785412644</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
+      <created>1786984039161</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
       <option name="project" value="LOCAL" />
-      <updated>1783785412644</updated>
+      <updated>1786984039161</updated>
     </task>
-    <task id="LOCAL-00063" summary="cap nhat;">
+    <task id="LOCAL-00307" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785415755</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
+      <created>1786984042315</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
       <option name="project" value="LOCAL" />
-      <updated>1783785415755</updated>
+      <updated>1786984042315</updated>
     </task>
-    <task id="LOCAL-00064" summary="cap nhat;">
+    <task id="LOCAL-00308" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785418776</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
+      <created>1786984045539</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
       <option name="project" value="LOCAL" />
-      <updated>1783785418776</updated>
+      <updated>1786984045539</updated>
     </task>
-    <task id="LOCAL-00065" summary="cap nhat;">
+    <task id="LOCAL-00309" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785421756</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
+      <created>1786984048903</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
       <option name="project" value="LOCAL" />
-      <updated>1783785421756</updated>
+      <updated>1786984048903</updated>
     </task>
-    <task id="LOCAL-00066" summary="cap nhat;">
+    <task id="LOCAL-00310" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785424910</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
+      <created>1787059002899</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
       <option name="project" value="LOCAL" />
-      <updated>1783785424910</updated>
+      <updated>1787059002899</updated>
     </task>
-    <task id="LOCAL-00067" summary="cap nhat;">
+    <task id="LOCAL-00311" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785429013</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
+      <created>1787059007242</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
       <option name="project" value="LOCAL" />
-      <updated>1783785429013</updated>
+      <updated>1787059007242</updated>
     </task>
-    <task id="LOCAL-00068" summary="cap nhat;">
+    <task id="LOCAL-00312" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785432572</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
+      <created>1787059010416</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
       <option name="project" value="LOCAL" />
-      <updated>1783785432572</updated>
+      <updated>1787059010416</updated>
     </task>
-    <task id="LOCAL-00069" summary="cap nhat;">
+    <task id="LOCAL-00313" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785436277</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
+      <created>1787059013708</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
       <option name="project" value="LOCAL" />
-      <updated>1783785436277</updated>
+      <updated>1787059013708</updated>
     </task>
-    <task id="LOCAL-00070" summary="cap nhat;">
+    <task id="LOCAL-00314" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785439691</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
+      <created>1787059017035</created>
+      <option name="number" value="00314" />
+      <option name="presentableId" value="LOCAL-00314" />
       <option name="project" value="LOCAL" />
-      <updated>1783785439691</updated>
+      <updated>1787059017035</updated>
     </task>
-    <task id="LOCAL-00071" summary="cap nhat;">
+    <task id="LOCAL-00315" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785443597</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
+      <created>1787059019876</created>
+      <option name="number" value="00315" />
+      <option name="presentableId" value="LOCAL-00315" />
       <option name="project" value="LOCAL" />
-      <updated>1783785443597</updated>
+      <updated>1787059019876</updated>
     </task>
-    <task id="LOCAL-00072" summary="cap nhat;">
+    <task id="LOCAL-00316" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785450235</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
+      <created>1787059024483</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
       <option name="project" value="LOCAL" />
-      <updated>1783785450235</updated>
+      <updated>1787059024483</updated>
     </task>
-    <task id="LOCAL-00073" summary="cap nhat;">
+    <task id="LOCAL-00317" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785453221</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
+      <created>1787059028497</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
       <option name="project" value="LOCAL" />
-      <updated>1783785453221</updated>
+      <updated>1787059028497</updated>
     </task>
-    <task id="LOCAL-00074" summary="cap nhat;">
+    <task id="LOCAL-00318" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785456449</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
+      <created>1787059031781</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
       <option name="project" value="LOCAL" />
-      <updated>1783785456449</updated>
+      <updated>1787059031781</updated>
     </task>
-    <task id="LOCAL-00075" summary="cap nhat;">
+    <task id="LOCAL-00319" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785459597</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
+      <created>1787059034872</created>
+      <option name="number" value="00319" />
+      <option name="presentableId" value="LOCAL-00319" />
       <option name="project" value="LOCAL" />
-      <updated>1783785459597</updated>
+      <updated>1787059034872</updated>
     </task>
-    <task id="LOCAL-00076" summary="cap nhat;">
+    <task id="LOCAL-00320" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785462970</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
+      <created>1787059038170</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
       <option name="project" value="LOCAL" />
-      <updated>1783785462970</updated>
+      <updated>1787059038170</updated>
     </task>
-    <task id="LOCAL-00077" summary="cap nhat;">
+    <task id="LOCAL-00321" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785466052</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
+      <created>1787059041261</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
       <option name="project" value="LOCAL" />
-      <updated>1783785466052</updated>
+      <updated>1787059041261</updated>
     </task>
-    <task id="LOCAL-00078" summary="cap nhat;">
+    <task id="LOCAL-00322" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785470203</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
+      <created>1787059044464</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
       <option name="project" value="LOCAL" />
-      <updated>1783785470203</updated>
+      <updated>1787059044464</updated>
     </task>
-    <task id="LOCAL-00079" summary="cap nhat;">
+    <task id="LOCAL-00323" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785473827</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
+      <created>1787059047581</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
       <option name="project" value="LOCAL" />
-      <updated>1783785473827</updated>
+      <updated>1787059047581</updated>
     </task>
-    <task id="LOCAL-00080" summary="cap nhat;">
+    <task id="LOCAL-00324" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785477435</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
+      <created>1787059050661</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
       <option name="project" value="LOCAL" />
-      <updated>1783785477435</updated>
+      <updated>1787059050661</updated>
     </task>
-    <task id="LOCAL-00081" summary="cap nhat;">
+    <task id="LOCAL-00325" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785481526</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
+      <created>1787059054008</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
       <option name="project" value="LOCAL" />
-      <updated>1783785481526</updated>
+      <updated>1787059054008</updated>
     </task>
-    <task id="LOCAL-00082" summary="cap nhat;">
+    <task id="LOCAL-00326" summary="cập nhật">
       <option name="closed" value="true" />
-      <created>1783785487039</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
+      <created>1787059057236</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
       <option name="project" value="LOCAL" />
-      <updated>1783785487039</updated>
+      <updated>1787059057236</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <option name="localTasksCounter" value="327" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,25 +571,35 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ep kieu" />
-    <MESSAGE value="kieu ky tu" />
-    <MESSAGE value="tinh tổng giai thừa từ 1 đến 10" />
-    <MESSAGE value="tìm các số hoàn hảo từ 1 đến 1000" />
-    <MESSAGE value="nhập vào 1 số và cho biết số đó có phải số nguyên tố hay không" />
-    <MESSAGE value="for lồng nhau" />
-    <MESSAGE value="xử lý ngoại lệ khi muốn check khi co phát sinh lỗi" />
-    <MESSAGE value="học cách tajo hàm và sử dụng hàm" />
-    <MESSAGE value="1 hàm nhập vào a, b, c&#10;1 hàm tính và đưa ra kết quả" />
-    <MESSAGE value="nhập vào a, b tính và in ra kết quả với cách nhập + - * /. Dùng hàm" />
-    <MESSAGE value="date và time trong java" />
-    <MESSAGE value="vis dụ về date và time trong java" />
-    <MESSAGE value="thư viện toán học" />
-    <MESSAGE value="thư viện random trong java" />
-    <MESSAGE value="the char data type in java" />
-    <MESSAGE value="string phần 1 trong java" />
-    <MESSAGE value="string phần 2 trong java" />
     <MESSAGE value="cap nhat" />
     <MESSAGE value="cap nhat;" />
-    <option name="LAST_COMMIT_MESSAGE" value="cap nhat;" />
+    <MESSAGE value="thư viện Arrays" />
+    <MESSAGE value="mảng Arrays" />
+    <MESSAGE value="sắp xếp trong mảng" />
+    <MESSAGE value="khởi tạo String" />
+    <MESSAGE value="Ví dụ về mảng" />
+    <MESSAGE value="dictionary" />
+    <MESSAGE value="oop" />
+    <MESSAGE value="lop sinh vien" />
+    <MESSAGE value="constructor co doi so" />
+    <MESSAGE value="getter và setter" />
+    <MESSAGE value="toString - xuất các đối tượng trừu tượng" />
+    <MESSAGE value="support method và service method" />
+    <MESSAGE value="overloading method - signature - constructor đặc biệt - parametter list" />
+    <MESSAGE value="kế thừa cha - con" />
+    <MESSAGE value="abstract class" />
+    <MESSAGE value="thêm thuộc tính cho class con" />
+    <MESSAGE value="Overriding method" />
+    <MESSAGE value="toString" />
+    <MESSAGE value="compareTo - sắp xếp" />
+    <MESSAGE value="compareTo - sắp xếp theo alpha beta" />
+    <MESSAGE value="Enum - tạo danh sách cố định" />
+    <MESSAGE value="biên dịch" />
+    <MESSAGE value="cập nhật" />
+    <option name="LAST_COMMIT_MESSAGE" value="cập nhật" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
